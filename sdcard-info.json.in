@@ -1,0 +1,24 @@
+{
+    "translation_catalog": "settings-sailfish_sdcard-info",
+    "entries": [
+        {
+            "path": "system_settings/info",
+            "title": "Info",
+            "translation_id": "settings_system-info",
+            "type": "section",
+            "order": 600
+        },
+        {
+            "path": "system_settings/info/sdcard-info",
+            "title": "SD-Card Info",
+            "translation_id": "settings-sailfish_sdcard-info",
+            "type": "page",
+            "icon": "image://theme/icon-m-storage",
+            "order": 200,
+            "params": {
+                "source": "@DEPLOYMENT_PATH@/MainPage.qml"
+            }
+        }
+    ]
+}
+

@@ -1,0 +1,5 @@
+* SD-Card Utilities for SailfishOS
+
+This adds an overview to the Settings to show information about the SD-Card.
+
+His Projekt is inspirational by the sailfish-utilities (https://github.com/sailfishos/sailfish-utilities)
