@@ -3,3 +3,5 @@
 This adds an overview to the Settings to show information about the SD-Card.
 
 this Projekt is inspirational by the sailfish-utilities (https://github.com/sailfishos/sailfish-utilities)
+
+test current build --> https://build.merproject.org/package/show/home:Nokius:sdcard-info/sdcard-info
