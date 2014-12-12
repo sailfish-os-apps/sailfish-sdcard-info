@@ -14,7 +14,7 @@
             "translation_id": "settings-sailfish_sdcard-info",
             "type": "page",
             "icon": "image://theme/icon-m-storage",
-            "order": 200,
+            "order": 220,
             "params": {
                 "source": "@DEPLOYMENT_PATH@/MainPage.qml"
             }
