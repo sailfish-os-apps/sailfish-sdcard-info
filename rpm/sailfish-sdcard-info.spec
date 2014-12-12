@@ -57,5 +57,5 @@ rm -rf %{buildroot}
 %{_datadir}/translations/source/settings-sailfish_sdcard-info.ts
 
 %changelog
-* Fri Dec 12 2014
-* First Build atm only Dummie wich add a Entry in the Settings
+* Fri Dec 12 2014 Nokius
+- First Build atm only Dummie wich add a Entry in the Settings
